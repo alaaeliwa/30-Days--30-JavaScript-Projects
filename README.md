@@ -51,4 +51,3 @@ https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day1/index.html
 
 
 ---
- افتح أي مجلد مشروع وشغّل ملف index.html في المتصفح
