@@ -29,7 +29,7 @@ This challenge is perfect for anyone who wants to:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
