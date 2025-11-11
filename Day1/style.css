@@ -10,7 +10,81 @@
   min-height: 100vh;
   background: linear-gradient(45deg ,#010758,#490d61);
   display: flex;
-  align-items: center;
+  align-items:center;
   justify-content: center;
   flex-direction: column;
+}
+.hero h1{
+  color: #fff;
+  font-weight: 500;
+  font-size: 45px;
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+.hero h1 span{
+  color: #ff2963;
+}
+textarea{
+  width: 600px;
+  height: 250px;
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  resize: none;
+  color: #fff;
+  background-color: #403d84;
+  margin-bottom: 30px;
+}
+textarea::placeholder{
+  color: #ddd;
+  font-size: 16px;
+}
+.row{
+  width: 600px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.row button{
+  padding: 10px 30px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #ff2963;
+  border: none;
+  outline: none;
+  border-radius: 35px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.row button i{
+  margin-right: 10px;
+  font-size: 16px;
+}
+.select-box {
+  position: relative;
+  flex: 1;
+}
+
+.select-box select {
+  width: 100%;
+  color: #ddd;
+  background: #403d84;
+  height: 50px;
+  padding: 0 50px 0 20px; 
+  outline: 0;
+  border: 0;
+  border-radius: 35px;
+  appearance: none;
+}
+.select-box i {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: #fff;
+  font-size: 14px;
 }
