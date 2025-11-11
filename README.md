@@ -23,5 +23,5 @@ Build a strong front-end portfolio
 🧠 Goals
   Practice 1 project per day
   Learn JavaScript through building
-  Improve problem-solving skills
+  Improve problem-solving skills <\br>
 1️⃣   Day 1 🔗 https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day1/index.html
