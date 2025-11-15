@@ -45,9 +45,10 @@ This challenge is perfect for anyone who wants to:
 ## 📂 Projects
 
 ### Day 1
-
 🔗 Live Demo:  
 https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day1/index.html
 
+### Day 2
+🔗 Live Demo:  
+https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day2/index.html
 
----
