@@ -52,3 +52,6 @@ https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day1/index.html
 🔗 Live Demo:  
 https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day2/index.html
 
+### Day 3
+🔗 Live Demo:  
+https://alaaeliwa.github.io/30-Days--30-JavaScript-Projects/Day3/
